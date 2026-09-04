@@ -26,16 +26,6 @@ while True:
             cv.rectangle(img, (x,y), (x+w,y+h), (0,255,0), thickness=2)
 
 
-
-
-
-
-
-
-
-
-
-
         # hand detecting
         results = hands.process(imgRGB)
 
