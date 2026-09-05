@@ -8,6 +8,8 @@ Rather than focusing only on the final project, I wanted to keep the learning pr
 
 ---
 
+https://github.com/user-attachments/assets/8f77f01d-e6b0-42b3-9403-2e8cae21257d
+
 ## 🎯 Goal
 
 The goal of this repository was to understand the fundamentals of computer vision by building small experiments and gradually combining them into a real-time application.
