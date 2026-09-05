@@ -8,7 +8,7 @@ Rather than focusing only on the final project, I wanted to keep the learning pr
 
 ---
 
-https://github.com/user-attachments/assets/8f77f01d-e6b0-42b3-9403-2e8cae21257d
+https://github.com/user-attachments/assets/e9182641-d870-4972-b596-627b83296dee
 
 ## 🎯 Goal
 
